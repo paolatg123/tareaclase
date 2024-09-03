@@ -1,0 +1,93 @@
+.somb1 {
+    background-color: purple;
+    position: relative;
+    width: 200px;
+    height: 120px;
+    top: 50px;
+    left: 300px;
+
+
+}
+
+.somb2 {
+    background-color: purple;
+    border-radius: 400px;
+    width: 500px;
+    height: 50px;
+
+    position: relative;
+    top: 10px;
+    left: 150px;
+}
+
+.face {
+    background-color: red;
+    border-radius: 300px;
+    width: 300px;
+    height: 300px;
+
+
+    position: relative;
+    top: 5px;
+    left: 250px;
+
+}
+
+.ojo1 {
+    background-color: yellow;
+    width: 80px;
+    height: 80px;
+
+    border-radius: 150px;
+    position: relative;
+    top: 70px;
+    left: 50px;
+}
+
+
+
+.ojo2 {
+    background-color: yellow;
+    position: relative;
+  border-radius: 50px;
+  width: 80px;
+  height: 80px;
+  top: 2px;
+  left: 170px;
+}
+
+.ceja{
+    background-color: lawngreen;
+    position: static;
+    border-radius: 180px;
+    top: 5px;
+    
+    bottom: 50px;
+    width: 100px;
+    height: 50px;
+
+}
+.ceja2{
+    background-color: lawngreen;
+    position: static;
+    border-radius: 180px;
+    top: 5px;
+    left: 10px;
+ 
+    width: 100px;
+    height: 50px;
+
+}
+.nariz{
+    background-color: lightcoral;
+    width: 80px;
+    height: 80px;
+
+    border-radius: 150px;
+    position: relative;
+    top: 10px;
+    left: 0px;
+}
+.boca{
+    
+}
